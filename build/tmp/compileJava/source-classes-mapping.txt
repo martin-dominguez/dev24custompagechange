@@ -1,0 +1,2 @@
+com/dev24/form/extension/configuration/Dev24CustomDDMFormPageChangeAction.java
+ com.dev24.form.extension.configuration.Dev24CustomDDMFormPageChangeAction
